@@ -1,2 +1,2 @@
-# utpher
-Wir brauen Bier
+# Utpher
+Wir brauen Bier.
